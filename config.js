@@ -2,7 +2,7 @@ window.settings = {
     // API
     api: "https://xb.mikunet.top",
     // 站点名称
-    title: 'MikuNet Node!',
+    title: 'MikuNet',
     // 站点描述
     description: '连接全世界',
     // 站点介绍 
